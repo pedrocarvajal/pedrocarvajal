@@ -1,0 +1,3 @@
+Quantitative R&D leader with a strong track record at the intersection of data science, software engineering, and finance. I lead multidisciplinary teams of researchers, developers, and analysts to design, validate, and deploy high-impact quantitative models that drive strategic decisions across sectors such as cryptocurrencies, traditional markets, and other industries.
+
+My approach blends strategic vision with hands-on technical execution, integrating MLOps best practices, risk control frameworks, and agile experimentation processes to take models from research to real-world operations. I am passionate about building high-performing teams, fostering collaboration, and aligning technological innovation with business objectives.

@@ -17,6 +17,6 @@ Looking for contributors interested in algorithmic trading, financial infrastruc
 
 ---
 
-📍 Dubai, UAE  
-🌐 [horizon5.tech](https://horizon5.tech)  
-𝕏 [@_pedrocarvajal](https://x.com/_pedrocarvajal)
+Dubai, UAE  
+[horizon5.tech](https://horizon5.tech)  
+[@_pedrocarvajal](https://x.com/_pedrocarvajal)

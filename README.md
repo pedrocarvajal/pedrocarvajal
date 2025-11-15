@@ -5,7 +5,7 @@ Currently developing **Horizon5**, a complete trading ecosystem for quantitative
 
 ## What I'm Working On
 
-I maintain the [**@horizon5-tech**](https://github.com/horizon5-tech) organization.
+I maintain the [**@horizon5-tech**](https://github.com/horizon5-tech) organization, a quantitative trading framework for multi-asset, multi-strategy portfolio backtesting and production trading. 
 
 ## Tech Stack
 

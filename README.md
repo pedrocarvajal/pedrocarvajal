@@ -1,7 +1,10 @@
 # Pedro Carvajal
 
-Software engineer focused on building algorithmic trading infrastructure. 
-Currently developing **Horizon5**, a complete trading ecosystem for quantitative traders.
+Software engineer building Horizon5—open source framework for multi-asset,
+multi-strategy algo trading.
+
+Spent 3-5 years in FinTech building trading systems in production. Now building
+the portfolio infrastructure I wish existed.
 
 ## What I'm Working On
 

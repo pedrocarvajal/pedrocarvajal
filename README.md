@@ -8,7 +8,7 @@ the portfolio infrastructure I wish existed.
 
 ## What I'm Working On
 
-I maintain the [**@horizon5-tech**](https://github.com/horizon5-tech) organization, a quantitative trading framework for multi-asset, multi-strategy portfolio backtesting and production trading.
+I maintain [**Horizon5-MT**](https://github.com/pedrocarvajal/horizon5-mt), an MQL5 framework for multi-asset portfolio management on MetaTrader 5 with centralized order management, performance analytics, and event-driven strategy execution.
 
 ## Tech Stack
 

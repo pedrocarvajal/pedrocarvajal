@@ -8,7 +8,7 @@ the portfolio infrastructure I wish existed.
 
 ## What I'm Working On
 
-I maintain the [**@horizon5-tech**](https://github.com/horizon5-tech) organization, a quantitative trading framework for multi-asset, multi-strategy portfolio backtesting and production trading. 
+I maintain the [**@horizon5-tech**](https://github.com/horizon5-tech) organization, a quantitative trading framework for multi-asset, multi-strategy portfolio backtesting and production trading.
 
 ## Tech Stack
 
@@ -20,6 +20,7 @@ Looking for contributors interested in algorithmic trading, financial infrastruc
 
 ---
 
-Dubai, UAE  
-[horizon5.tech](https://horizon5.tech)  
-[@_pedrocarvajal](https://x.com/_pedrocarvajal)
+Dubai, UAE
+[pedrocarvajal.co](https://pedrocarvajal.co/)
+[LinkedIn](https://www.linkedin.com/in/pedro-carvajal/)
+[Instagram](https://www.instagram.com/pedrocarvajal2025/)

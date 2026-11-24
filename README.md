@@ -1,6 +1,6 @@
 # Pedro Carvajal
 
-**Senior Software Engineer · Trading Systems · Quant Developer | Low-Latency Execution, Risk & Copy-Trading Platforms | Python**
+**Senior Software Engineer · Trading Systems**
 
 ## About
 
